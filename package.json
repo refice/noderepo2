@@ -1,0 +1,22 @@
+{
+  "name": "noderepo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/refice/noderepo2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/refice/noderepo2/issues"
+  },
+  "homepage": "https://github.com/refice/noderepo2#readme",
+  "dependencies": {
+    "junit": "1.4.9"
+  }
+}
