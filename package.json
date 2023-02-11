@@ -18,6 +18,6 @@
   "homepage": "https://github.com/refice/noderepo2#readme",
   "dependencies": {
     "junit": "1.4.9",
-    "lib1":1.3
+    "lib1":1.4
   }
 }
